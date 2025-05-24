@@ -1,4 +1,8 @@
-## Hi there 👋
+## Pretending genomes make sense
+
+To the person that stumbles on this page, I keep my various coding repositories here. These are largely attempts 
+to make sense of genomic data or, perhaps less interestingly, to keep track of some configurations and handy
+little scripts. 
 
 <!--
 **Gr1m3y/Gr1m3y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
